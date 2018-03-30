@@ -1,0 +1,21 @@
+{
+  "name": "riya",
+  "authors": [
+    "sarang"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "swiper": "^4.2.0"
+  }
+}
